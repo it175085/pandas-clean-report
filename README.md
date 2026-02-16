@@ -2,7 +2,7 @@
 
 This project demonstrates a simple data cleaning and reporting pipeline using Python and pandas.
 
-## 📌 What this script does
+# What this script does
 
 - Loads a CSV file with sales data
 - Cleans and validates the data
@@ -14,12 +14,12 @@ This project demonstrates a simple data cleaning and reporting pipeline using Py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 ---
 
-## 📊 Outputs Generated
+##  Outputs Generated
 
 When you run the script, it creates:
 
@@ -31,7 +31,7 @@ These files are generated inside the `output/` folder.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Install pandas:
 
@@ -41,7 +41,7 @@ Run the script:
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - pandas data cleaning
 - handling missing values
@@ -49,3 +49,4 @@ Run the script:
 - groupby & aggregation
 - sorting & exporting data
 - file handling with pathlib
+
